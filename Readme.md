@@ -1,3 +1,3 @@
 ### Test Game github
 
-* nothing to do
+* Initialize Game resource
